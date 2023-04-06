@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @YiFanWangSCU
-- 👀 B站关注反正我信了_    喵   UID：329816716
-- 🌱 全网同昵称 反正我信了
+- Name:Wang Yifan
 - 💞️ SiChuan university student wangyifan
 - 📫 邮箱:1797250474@qq.com
+- Student number:2021141460219
+- School:Sichuan University
 - Students at Sichuan University's School of Computer Science are trying to learn to code。Welcome to talk to me。
 -         
 
