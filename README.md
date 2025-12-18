@@ -2,10 +2,10 @@
 - Name:Wang Yifan
 - 💞️ SiChuan university student wangyifan
 - 📫 邮箱:1797250474@qq.com
-- Student number:2021141460219
+- Student number:2025223045152
 - School:Sichuan University
 - Students at Sichuan University's School of Computer Science are trying to learn to code。Welcome to talk to me。
--         
+- Master        
 
 <!---
 
