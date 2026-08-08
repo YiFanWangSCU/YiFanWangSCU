@@ -1,8 +1,8 @@
 ### Hi, I'm Yifan Wang 👋
 
-First-year master's student at Sichuan University's School of Computer Science, working on LLM agents — tool use, verification, and post-training robustness.
+First-year master's student at Sichuan University, working on LLM agents — tool use, verification, and post-training robustness.
 
-Full disclosure: no top-conference papers yet, and this profile is still under construction. Working on both.
+Still no top-conference papers, and this profile is very much under construction.
 
 ---
 
@@ -31,9 +31,9 @@ Reach me on GitHub.
 
 ## 中文介绍
 
-我是**王逸凡**，四川大学计算机学院硕士研究生（研一），研究方向为 **LLM Agent**——工具调用、验证与后训练鲁棒性。
+我是**王逸凡**，四川大学计算机学院硕士研究生，研究方向为 **LLM Agent**——工具调用、验证与后训练鲁棒性。
 
-坦白说：顶会论文还没发，主页也还在装修。两件事都在推进中。
+顶会还没发过，主页也还在装修。见谅。
 
 ### 🔬 正在做的事
 
