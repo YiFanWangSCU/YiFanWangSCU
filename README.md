@@ -27,6 +27,33 @@ I'm a graduate student in the School of Computer Science at Sichuan University, 
 
 Reach me on GitHub — I'm happy to talk about agents, evaluation, or anything in between.
 
+---
+
+## 中文介绍
+
+我是**王逸凡**，四川大学计算机学院硕士研究生，研究方向为 **LLM Agent**——工具调用、验证与后训练鲁棒性。
+
+### 🔬 正在做的事
+
+- **基于证据的 Agent Harness** —— 将 LLM 语义决策与确定性 Python 运行时分离，让工具调用、审批、检查点与失败都可观测、可验证（[job-agent-harness](https://github.com/YiFanWangSCU/job-agent-harness)）。
+- **后训练鲁棒性** —— 受控实验：当 Agent 的 skill prompt 不完整或缺失时，其结构化决策会如何变化（[skill-annealing](https://github.com/YiFanWangSCU/skill-annealing)）。
+
+### 🛠️ 精选项目
+
+| 项目 | 做什么 |
+| --- | --- |
+| [job-agent-harness](https://github.com/YiFanWangSCU/job-agent-harness) | 基于证据的 Agent Harness，为工具调用、审批、检查点与验证提供确定性运行时契约。 |
+| [skill-annealing](https://github.com/YiFanWangSCU/skill-annealing) | 缩减技能提示下 Agent 鲁棒性的受控后训练研究。 |
+
+### 💻 技术栈与兴趣
+
+- **语言**：Python
+- **方向**：LLM Agent · 工具调用 · Agent 评测与验证 · 后训练
+
+### 📫 联系
+
+欢迎通过 GitHub 联系我，一起聊聊 Agent、评测或任何相关话题。
+
 <!--
 YiFanWangSCU/YiFanWangSCU is a special repository: its README.md appears on the GitHub profile.
 -->
