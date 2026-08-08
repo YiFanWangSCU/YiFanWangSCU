@@ -1,8 +1,8 @@
-### Hi, I'm Yifan Wang 👋
+### Hi, I'm Riceff 👋
 
 First-year master's student at Sichuan University, working on LLM agents — tool use, verification, and post-training robustness.
 
-Still no top-conference papers, and this profile is very much under construction.
+0 CCF-A papers so far — in the writing phase.
 
 ---
 
@@ -31,9 +31,9 @@ Reach me on GitHub.
 
 ## 中文介绍
 
-我是**王逸凡**，四川大学计算机学院硕士研究生，研究方向为 **LLM Agent**——工具调用、验证与后训练鲁棒性。
+我是**Riceff**，四川大学计算机学院硕士研究生，研究方向为 **LLM Agent**——工具调用、验证与后训练鲁棒性。
 
-顶会还没发过，主页也还在装修。见谅。
+已发0篇CCFA，备文期。
 
 ### 🔬 正在做的事
 
